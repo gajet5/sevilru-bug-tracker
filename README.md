@@ -1,1 +1,1 @@
-# sevilru-bug-tracker
+# Баг трекер для проекта http://s-evil.ru
